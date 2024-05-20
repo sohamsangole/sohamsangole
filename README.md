@@ -1,14 +1,11 @@
-### Hello there 👋
+# Hello there 👋
 
 #### 💻 A Developer and an Engineer 🔧
 
-- ⚙️ I daily use : `.py`, `.ipynb`, `.java`, `.dart`, `.js`, `.jsx`
-- 🌍 I'm mostly active within the **AI and Development Community**
-- 💬 `ping` me about **AI**, **Algorithms**, **Python**, **Java**, **Development**
+- 🔭 I’m currently working in AI and Development.
+- 🌱 I’m currently learning Reinforcement Learning.
+- 💬 Ask me about AI, Python, Java, Flutter.
+- 📫 How to reach me: sohamajaysangole@gmail.com
+- ⚡ Fun fact: Soham Sangole is such a skilled coder that when he writes "Hello, World!" programs, the entire world actually says "Hello" back.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamsangole&layout=donut&theme=tokyonight)](https://github.com/sohamsangole)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohamsangole&repo=DSA&theme=tokyonight)](https://github.com/sohamsangole)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohamsangole&repo=Portfolio&theme=tokyonight)](https://github.com/sohamsangole)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohamsangole&repo=University-Probability-Predictor&theme=tokyonight)](https://github.com/sohamsangole)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sohamsangole&repo=Ping-Pong-Game-Reinforcement-Learrning&theme=tokyonight)](https://github.com/sohamsangole)
