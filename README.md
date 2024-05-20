@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+#### 💻 A Developer and an Engineer 🔧
 
-- ⚙️ I use daily: `.py`, `.ipynb`, `.java`, `.dart`, `.js`, `.jsx`
+- ⚙️ I daily use : `.py`, `.ipynb`, `.java`, `.dart`, `.js`, `.jsx`
 - 🌍 I'm mostly active within the **AI and Development Community**
 - 💬 `ping` me about **AI**, **Algorithms**, **Python**, **Java**, **Development**
 
