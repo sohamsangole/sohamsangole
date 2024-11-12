@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 - 🔭 I’m currently working in AI and Development.
 - 🌱 I’m currently learning Reinforcement Learning.
