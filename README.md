@@ -1,5 +1,9 @@
-![Header](./github-header-image.png)
+# Hi, I'm Soham 👋
 
-- 📫 How to reach me: sohamajaysangole@gmail.com
+Software Engineer passionate about AI, open source, and building developer tools.
 
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamsangole&show_icons=true&bg_color=00000000)
+### Currently
+- Building **Stella**
+- Learning Agentic AI
+- Using Linux as my daily driver
+- Listening to songs...
