@@ -36,66 +36,32 @@
   </defs>
   <rect class="bg" width="880" height="170" rx="12" />
   <g class="constellations">
-    <polyline class="constellation-line" points="36.0,47.0 36.0,66.0 36.0,85.0" />
-    <polyline class="constellation-line" points="36.0,123.0 36.0,142.0 51.54,28.0 51.54,47.0 51.54,66.0" />
-    <polyline class="constellation-line" points="51.54,123.0 51.54,142.0 67.08,28.0 67.08,47.0 67.08,66.0" />
-    <polyline class="constellation-line" points="113.69,123.0 113.69,142.0" />
-    <polyline class="constellation-line" points="129.23,85.0 129.23,104.0 129.23,123.0 129.23,142.0 144.77,28.0 144.77,47.0 144.77,66.0 144.77,85.0 144.77,104.0" />
-    <polyline class="constellation-line" points="160.31,104.0 160.31,123.0 160.31,142.0" />
-    <polyline class="constellation-line" points="175.85,123.0 175.85,142.0 191.38,28.0 191.38,47.0 191.38,66.0" />
-    <polyline class="constellation-line" points="206.92,28.0 206.92,47.0 206.92,66.0 206.92,85.0 206.92,104.0 206.92,123.0 206.92,142.0" />
-    <polyline class="constellation-line" points="222.46,66.0 222.46,85.0" />
-    <polyline class="constellation-line" points="238.0,47.0 238.0,66.0" />
-    <polyline class="constellation-line" points="253.54,28.0 253.54,47.0" />
-    <polyline class="constellation-line" points="269.08,66.0 269.08,85.0" />
-    <polyline class="constellation-line" points="284.62,142.0 300.15,28.0" />
-    <polyline class="constellation-line" points="300.15,66.0 300.15,85.0 300.15,104.0" />
-    <polyline class="constellation-line" points="315.69,47.0 315.69,66.0 315.69,85.0" />
-    <polyline class="constellation-line" points="331.23,85.0 331.23,104.0" />
-    <polyline class="constellation-line" points="346.77,85.0 346.77,104.0 346.77,123.0 346.77,142.0 362.31,28.0" />
-    <polyline class="constellation-line" points="362.31,104.0 362.31,123.0" />
-    <polyline class="constellation-line" points="377.85,104.0 377.85,123.0" />
-    <polyline class="constellation-line" points="393.38,28.0 393.38,47.0" />
-    <polyline class="constellation-line" points="408.92,85.0 408.92,104.0 408.92,123.0" />
-    <polyline class="constellation-line" points="424.46,28.0 424.46,47.0 424.46,66.0" />
-    <polyline class="constellation-line" points="424.46,104.0 424.46,123.0" />
-    <polyline class="constellation-line" points="440.0,104.0 440.0,123.0" />
-    <polyline class="constellation-line" points="455.54,66.0 455.54,85.0 455.54,104.0 455.54,123.0" />
-    <polyline class="constellation-line" points="471.08,85.0 471.08,104.0" />
-    <polyline class="constellation-line" points="486.62,47.0 486.62,66.0" />
-    <polyline class="constellation-line" points="502.15,66.0 502.15,85.0 502.15,104.0" />
-    <polyline class="constellation-line" points="502.15,142.0 517.69,28.0 517.69,47.0 517.69,66.0 517.69,85.0 517.69,104.0 517.69,123.0" />
-    <polyline class="constellation-line" points="533.23,28.0 533.23,47.0 533.23,66.0 533.23,85.0" />
-    <polyline class="constellation-line" points="533.23,142.0 548.77,28.0 548.77,47.0 548.77,66.0 548.77,85.0" />
-    <polyline class="constellation-line" points="564.31,47.0 564.31,66.0" />
-    <polyline class="constellation-line" points="579.85,85.0 579.85,104.0 579.85,123.0 579.85,142.0 595.38,28.0 595.38,47.0" />
-    <polyline class="constellation-line" points="595.38,104.0 595.38,123.0 595.38,142.0 610.92,28.0 610.92,47.0 610.92,66.0" />
-    <polyline class="constellation-line" points="610.92,104.0 610.92,123.0 610.92,142.0 626.46,28.0 626.46,47.0 626.46,66.0 626.46,85.0 626.46,104.0 626.46,123.0 626.46,142.0 642.0,28.0 642.0,47.0" />
-    <polyline class="constellation-line" points="657.54,142.0 673.08,28.0 673.08,47.0 673.08,66.0" />
-    <polyline class="constellation-line" points="673.08,104.0 673.08,123.0 673.08,142.0 688.62,28.0 688.62,47.0 688.62,66.0 688.62,85.0 688.62,104.0 688.62,123.0 688.62,142.0" />
-    <polyline class="constellation-line" points="704.15,66.0 704.15,85.0" />
-    <polyline class="constellation-line" points="704.15,142.0 719.69,28.0 719.69,47.0 719.69,66.0" />
-    <polyline class="constellation-line" points="750.77,85.0 750.77,104.0 750.77,123.0 750.77,142.0 766.31,28.0 766.31,47.0 766.31,66.0" />
-    <polyline class="constellation-line" points="781.85,123.0 781.85,142.0 797.38,28.0" />
-    <polyline class="constellation-line" points="797.38,66.0 797.38,85.0" />
-    <polyline class="constellation-line" points="812.92,28.0 812.92,47.0 812.92,66.0" />
-    <polyline class="constellation-line" points="844.0,28.0 844.0,47.0" />
+    <polyline class="constellation-line" points="36.0,66.0 36.0,85.0" />
+    <polyline class="constellation-line" points="36.0,123.0 36.0,142.0 51.54,28.0" />
+    <polyline class="constellation-line" points="82.62,142.0 98.15,28.0" />
+    <polyline class="constellation-line" points="98.15,66.0 98.15,85.0 98.15,104.0 98.15,123.0 98.15,142.0 113.69,28.0 113.69,47.0 113.69,66.0 113.69,85.0 113.69,104.0" />
+    <polyline class="constellation-line" points="160.31,123.0 160.31,142.0" />
+    <polyline class="constellation-line" points="284.62,104.0 284.62,123.0" />
+    <polyline class="constellation-line" points="346.77,66.0 346.77,85.0" />
+    <polyline class="constellation-line" points="688.62,66.0 688.62,85.0" />
+    <polyline class="constellation-line" points="704.15,104.0 704.15,123.0" />
+    <polyline class="constellation-line" points="797.38,142.0 812.92,28.0 812.92,47.0" />
+    <polyline class="constellation-line" points="812.92,142.0 828.46,28.0 828.46,47.0 828.46,66.0 828.46,85.0 828.46,104.0 828.46,123.0 828.46,142.0 844.0,28.0 844.0,47.0" />
   </g>
   <g class="stars">
     <g class="star">
-      <title>Sep 08, 2025 - 2 contributions</title>
-      <circle class="halo" cx="36.0" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="36.0" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Sep 07, 2025 - 2 contributions</title>
+      <circle class="halo" cx="36.0" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="36.0" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Sep 09, 2025 - 7 contributions</title>
-      <circle class="halo" cx="36.0" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="36.0" cy="66.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Sep 09, 2025 - 2 contributions</title>
+      <circle class="halo" cx="36.0" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="36.0" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Sep 10, 2025 - 7 contributions</title>
-      <circle class="halo" cx="36.0" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="36.0" cy="85.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Sep 10, 2025 - 1 contribution</title>
+      <circle class="core" cx="36.0" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
       <title>Sep 12, 2025 - 1 contribution</title>
@@ -107,48 +73,46 @@
       <circle class="core" cx="36.0" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Sep 14, 2025 - 5 contributions</title>
-      <circle class="halo" cx="51.54" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="51.54" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
+      <title>Sep 14, 2025 - 2 contributions</title>
+      <circle class="halo" cx="51.54" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="51.54" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Sep 15, 2025 - 2 contributions</title>
-      <circle class="halo" cx="51.54" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="51.54" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Sep 17, 2025 - 1 contribution</title>
+      <circle class="core" cx="51.54" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Sep 16, 2025 - 7 contributions</title>
-      <circle class="halo" cx="51.54" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="51.54" cy="66.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Sep 24, 2025 - 1 contribution</title>
+      <circle class="core" cx="67.08" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Sep 19, 2025 - 3 contributions</title>
-      <circle class="halo" cx="51.54" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="51.54" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Sep 30, 2025 - 2 contributions</title>
+      <circle class="halo" cx="82.62" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="82.62" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Sep 20, 2025 - 1 contribution</title>
-      <circle class="core" cx="51.54" cy="142.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
+      <title>Oct 04, 2025 - 3 contributions</title>
+      <circle class="halo" cx="82.62" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="82.62" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Sep 21, 2025 - 2 contributions</title>
-      <circle class="halo" cx="67.08" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="67.08" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Oct 05, 2025 - 5 contributions</title>
+      <circle class="halo" cx="98.15" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
+      <circle class="core" cx="98.15" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
     </g>
     <g class="star">
-      <title>Sep 22, 2025 - 3 contributions</title>
-      <circle class="halo" cx="67.08" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="67.08" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Oct 07, 2025 - 3 contributions</title>
+      <circle class="halo" cx="98.15" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="98.15" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Sep 23, 2025 - 2 contributions</title>
-      <circle class="halo" cx="67.08" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="67.08" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Oct 08, 2025 - 4 contributions</title>
+      <circle class="halo" cx="98.15" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
+      <circle class="core" cx="98.15" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.814" />
     </g>
     <g class="star">
-      <title>Sep 26, 2025 - 3 contributions</title>
-      <circle class="halo" cx="67.08" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="67.08" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Oct 09, 2025 - 1 contribution</title>
+      <circle class="core" cx="98.15" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
       <title>Oct 10, 2025 - 3 contributions</title>
@@ -156,796 +120,176 @@
       <circle class="core" cx="98.15" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Oct 17, 2025 - 2 contributions</title>
-      <circle class="halo" cx="113.69" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="113.69" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Oct 11, 2025 - 3 contributions</title>
+      <circle class="halo" cx="98.15" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="98.15" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Oct 18, 2025 - 7 contributions</title>
-      <circle class="halo" cx="113.69" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="113.69" cy="142.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Oct 12, 2025 - 5 contributions</title>
+      <circle class="halo" cx="113.69" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
+      <circle class="core" cx="113.69" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
     </g>
     <g class="star">
-      <title>Oct 22, 2025 - 2 contributions</title>
-      <circle class="halo" cx="129.23" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="129.23" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Oct 13, 2025 - 1 contribution</title>
+      <circle class="core" cx="113.69" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Oct 23, 2025 - 4 contributions</title>
-      <circle class="halo" cx="129.23" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="129.23" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.814" />
+      <title>Oct 14, 2025 - 3 contributions</title>
+      <circle class="halo" cx="113.69" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="113.69" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Oct 24, 2025 - 7 contributions</title>
-      <circle class="halo" cx="129.23" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="129.23" cy="123.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Oct 15, 2025 - 5 contributions</title>
+      <circle class="halo" cx="113.69" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
+      <circle class="core" cx="113.69" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.849" />
     </g>
     <g class="star">
-      <title>Oct 25, 2025 - 2 contributions</title>
-      <circle class="halo" cx="129.23" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="129.23" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Oct 16, 2025 - 3 contributions</title>
+      <circle class="halo" cx="113.69" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="113.69" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Oct 26, 2025 - 11 contributions</title>
-      <circle class="halo" cx="144.77" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="144.77" cy="28.0" r="1.8" fill="#ffffff" opacity="0.984" />
+      <title>Nov 07, 2025 - 2 contributions</title>
+      <circle class="halo" cx="160.31" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="160.31" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Oct 27, 2025 - 1 contribution</title>
-      <circle class="core" cx="144.77" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
+      <title>Nov 08, 2025 - 2 contributions</title>
+      <circle class="halo" cx="160.31" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="160.31" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Oct 28, 2025 - 1 contribution</title>
-      <circle class="core" cx="144.77" cy="66.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
+      <title>Nov 22, 2025 - 1 contribution</title>
+      <circle class="core" cx="191.38" cy="142.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Oct 29, 2025 - 4 contributions</title>
-      <circle class="halo" cx="144.77" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="144.77" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.814" />
+      <title>Nov 24, 2025 - 2 contributions</title>
+      <circle class="halo" cx="206.92" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="206.92" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Oct 30, 2025 - 2 contributions</title>
-      <circle class="halo" cx="144.77" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="144.77" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Nov 26, 2025 - 1 contribution</title>
+      <circle class="core" cx="206.92" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Nov 03, 2025 - 5 contributions</title>
-      <circle class="halo" cx="160.31" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="160.31" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Nov 06, 2025 - 2 contributions</title>
-      <circle class="halo" cx="160.31" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="160.31" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Nov 07, 2025 - 5 contributions</title>
-      <circle class="halo" cx="160.31" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="160.31" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Nov 08, 2025 - 5 contributions</title>
-      <circle class="halo" cx="160.31" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="160.31" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Nov 14, 2025 - 1 contribution</title>
-      <circle class="core" cx="175.85" cy="123.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Nov 15, 2025 - 11 contributions</title>
-      <circle class="halo" cx="175.85" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="175.85" cy="142.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Nov 16, 2025 - 7 contributions</title>
-      <circle class="halo" cx="191.38" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="191.38" cy="28.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Nov 17, 2025 - 7 contributions</title>
-      <circle class="halo" cx="191.38" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="191.38" cy="47.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Nov 18, 2025 - 1 contribution</title>
-      <circle class="core" cx="191.38" cy="66.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Nov 23, 2025 - 1 contribution</title>
-      <circle class="core" cx="206.92" cy="28.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Nov 24, 2025 - 1 contribution</title>
-      <circle class="core" cx="206.92" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Nov 25, 2025 - 5 contributions</title>
-      <circle class="halo" cx="206.92" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="206.92" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Nov 26, 2025 - 11 contributions</title>
-      <circle class="halo" cx="206.92" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="206.92" cy="85.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Nov 27, 2025 - 1 contribution</title>
-      <circle class="core" cx="206.92" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Nov 28, 2025 - 2 contributions</title>
-      <circle class="halo" cx="206.92" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="206.92" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Nov 29, 2025 - 7 contributions</title>
-      <circle class="halo" cx="206.92" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="206.92" cy="142.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Dec 02, 2025 - 2 contributions</title>
-      <circle class="halo" cx="222.46" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="222.46" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Dec 03, 2025 - 1 contribution</title>
-      <circle class="core" cx="222.46" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Dec 08, 2025 - 2 contributions</title>
-      <circle class="halo" cx="238.0" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="238.0" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Dec 09, 2025 - 11 contributions</title>
-      <circle class="halo" cx="238.0" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="238.0" cy="66.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Dec 14, 2025 - 3 contributions</title>
-      <circle class="halo" cx="253.54" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="253.54" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Dec 15, 2025 - 2 contributions</title>
-      <circle class="halo" cx="253.54" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="253.54" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Dec 15, 2025 - 3 contributions</title>
+      <circle class="halo" cx="253.54" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="253.54" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
       <title>Dec 18, 2025 - 1 contribution</title>
       <circle class="core" cx="253.54" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Dec 21, 2025 - 5 contributions</title>
-      <circle class="halo" cx="269.08" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="269.08" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
+      <title>Dec 29, 2025 - 1 contribution</title>
+      <circle class="core" cx="284.62" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Dec 23, 2025 - 8 contributions</title>
-      <circle class="halo" cx="269.08" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="269.08" cy="66.0" r="1.8" fill="#ffffff" opacity="0.928" />
+      <title>Jan 01, 2026 - 1 contribution</title>
+      <circle class="core" cx="284.62" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Dec 24, 2025 - 2 contributions</title>
-      <circle class="halo" cx="269.08" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="269.08" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Jan 02, 2026 - 1 contribution</title>
+      <circle class="core" cx="284.62" cy="123.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Jan 03, 2026 - 3 contributions</title>
-      <circle class="halo" cx="284.62" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="284.62" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Jan 05, 2026 - 1 contribution</title>
+      <circle class="core" cx="300.15" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Jan 04, 2026 - 5 contributions</title>
-      <circle class="halo" cx="300.15" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="300.15" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
+      <title>Jan 27, 2026 - 2 contributions</title>
+      <circle class="halo" cx="346.77" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="346.77" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Jan 06, 2026 - 1 contribution</title>
-      <circle class="core" cx="300.15" cy="66.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
+      <title>Jan 28, 2026 - 1 contribution</title>
+      <circle class="core" cx="346.77" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Jan 07, 2026 - 7 contributions</title>
-      <circle class="halo" cx="300.15" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="300.15" cy="85.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Jun 30, 2026 - 2 contributions</title>
+      <circle class="halo" cx="688.62" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="688.62" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Jan 08, 2026 - 1 contribution</title>
-      <circle class="core" cx="300.15" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
+      <title>Jul 01, 2026 - 2 contributions</title>
+      <circle class="halo" cx="688.62" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="688.62" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Jan 12, 2026 - 3 contributions</title>
-      <circle class="halo" cx="315.69" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="315.69" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Jul 09, 2026 - 1 contribution</title>
+      <circle class="core" cx="704.15" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Jan 13, 2026 - 2 contributions</title>
-      <circle class="halo" cx="315.69" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="315.69" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Jul 10, 2026 - 1 contribution</title>
+      <circle class="core" cx="704.15" cy="123.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Jan 14, 2026 - 7 contributions</title>
-      <circle class="halo" cx="315.69" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="315.69" cy="85.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Jul 16, 2026 - 12 contributions</title>
+      <circle class="halo" cx="719.69" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.45" />
+      <circle class="core" cx="719.69" cy="104.0" r="1.8" fill="#ffffff" opacity="1.0" />
     </g>
     <g class="star">
-      <title>Jan 21, 2026 - 5 contributions</title>
-      <circle class="halo" cx="331.23" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="331.23" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.849" />
+      <title>Aug 22, 2026 - 3 contributions</title>
+      <circle class="halo" cx="797.38" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="797.38" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Jan 22, 2026 - 4 contributions</title>
-      <circle class="halo" cx="331.23" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="331.23" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.814" />
+      <title>Aug 23, 2026 - 1 contribution</title>
+      <circle class="core" cx="812.92" cy="28.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Jan 28, 2026 - 3 contributions</title>
-      <circle class="halo" cx="346.77" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="346.77" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Aug 24, 2026 - 4 contributions</title>
+      <circle class="halo" cx="812.92" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
+      <circle class="core" cx="812.92" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.814" />
     </g>
     <g class="star">
-      <title>Jan 29, 2026 - 1 contribution</title>
-      <circle class="core" cx="346.77" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
+      <title>Aug 29, 2026 - 3 contributions</title>
+      <circle class="halo" cx="812.92" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="812.92" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Jan 30, 2026 - 2 contributions</title>
-      <circle class="halo" cx="346.77" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="346.77" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Aug 30, 2026 - 9 contributions</title>
+      <circle class="halo" cx="828.46" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.424" />
+      <circle class="core" cx="828.46" cy="28.0" r="1.8" fill="#ffffff" opacity="0.949" />
     </g>
     <g class="star">
-      <title>Jan 31, 2026 - 2 contributions</title>
-      <circle class="halo" cx="346.77" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="346.77" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
+      <title>Aug 31, 2026 - 12 contributions</title>
+      <circle class="halo" cx="828.46" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.45" />
+      <circle class="core" cx="828.46" cy="47.0" r="1.8" fill="#ffffff" opacity="1.0" />
     </g>
     <g class="star">
-      <title>Feb 01, 2026 - 3 contributions</title>
-      <circle class="halo" cx="362.31" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="362.31" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.77" />
+      <title>Sep 01, 2026 - 1 contribution</title>
+      <circle class="core" cx="828.46" cy="66.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
     </g>
     <g class="star">
-      <title>Feb 05, 2026 - 8 contributions</title>
-      <circle class="halo" cx="362.31" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="362.31" cy="104.0" r="1.8" fill="#ffffff" opacity="0.928" />
+      <title>Sep 02, 2026 - 3 contributions</title>
+      <circle class="halo" cx="828.46" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="828.46" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Feb 06, 2026 - 7 contributions</title>
-      <circle class="halo" cx="362.31" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="362.31" cy="123.0" r="1.8" fill="#ffffff" opacity="0.905" />
+      <title>Sep 03, 2026 - 4 contributions</title>
+      <circle class="halo" cx="828.46" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
+      <circle class="core" cx="828.46" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.814" />
     </g>
     <g class="star">
-      <title>Feb 12, 2026 - 5 contributions</title>
-      <circle class="halo" cx="377.85" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="377.85" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.849" />
+      <title>Sep 04, 2026 - 2 contributions</title>
+      <circle class="halo" cx="828.46" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
+      <circle class="core" cx="828.46" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
     </g>
     <g class="star">
-      <title>Feb 13, 2026 - 4 contributions</title>
-      <circle class="halo" cx="377.85" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="377.85" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.814" />
+      <title>Sep 05, 2026 - 3 contributions</title>
+      <circle class="halo" cx="828.46" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
+      <circle class="core" cx="828.46" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
     </g>
     <g class="star">
-      <title>Feb 15, 2026 - 5 contributions</title>
-      <circle class="halo" cx="393.38" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="393.38" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
+      <title>Sep 06, 2026 - 10 contributions</title>
+      <circle class="halo" cx="844.0" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.434" />
+      <circle class="core" cx="844.0" cy="28.0" r="1.8" fill="#ffffff" opacity="0.967" />
     </g>
     <g class="star">
-      <title>Feb 16, 2026 - 11 contributions</title>
-      <circle class="halo" cx="393.38" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="393.38" cy="47.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Feb 25, 2026 - 1 contribution</title>
-      <circle class="core" cx="408.92" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Feb 26, 2026 - 5 contributions</title>
-      <circle class="halo" cx="408.92" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="408.92" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Feb 27, 2026 - 3 contributions</title>
-      <circle class="halo" cx="408.92" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="408.92" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Mar 01, 2026 - 5 contributions</title>
-      <circle class="halo" cx="424.46" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="424.46" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Mar 02, 2026 - 11 contributions</title>
-      <circle class="halo" cx="424.46" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="424.46" cy="47.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Mar 03, 2026 - 1 contribution</title>
-      <circle class="core" cx="424.46" cy="66.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Mar 05, 2026 - 1 contribution</title>
-      <circle class="core" cx="424.46" cy="104.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Mar 06, 2026 - 7 contributions</title>
-      <circle class="halo" cx="424.46" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="424.46" cy="123.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Mar 12, 2026 - 5 contributions</title>
-      <circle class="halo" cx="440.0" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="440.0" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Mar 13, 2026 - 5 contributions</title>
-      <circle class="halo" cx="440.0" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="440.0" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Mar 17, 2026 - 3 contributions</title>
-      <circle class="halo" cx="455.54" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="455.54" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Mar 18, 2026 - 4 contributions</title>
-      <circle class="halo" cx="455.54" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="455.54" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Mar 19, 2026 - 7 contributions</title>
-      <circle class="halo" cx="455.54" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="455.54" cy="104.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Mar 20, 2026 - 3 contributions</title>
-      <circle class="halo" cx="455.54" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="455.54" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Mar 23, 2026 - 8 contributions</title>
-      <circle class="halo" cx="471.08" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="471.08" cy="47.0" r="1.8" fill="#ffffff" opacity="0.928" />
-    </g>
-    <g class="star">
-      <title>Mar 25, 2026 - 8 contributions</title>
-      <circle class="halo" cx="471.08" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="471.08" cy="85.0" r="1.8" fill="#ffffff" opacity="0.928" />
-    </g>
-    <g class="star">
-      <title>Mar 26, 2026 - 3 contributions</title>
-      <circle class="halo" cx="471.08" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="471.08" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Mar 30, 2026 - 8 contributions</title>
-      <circle class="halo" cx="486.62" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="486.62" cy="47.0" r="1.8" fill="#ffffff" opacity="0.928" />
-    </g>
-    <g class="star">
-      <title>Mar 31, 2026 - 5 contributions</title>
-      <circle class="halo" cx="486.62" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="486.62" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Apr 07, 2026 - 3 contributions</title>
-      <circle class="halo" cx="502.15" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="502.15" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Apr 08, 2026 - 1 contribution</title>
-      <circle class="core" cx="502.15" cy="85.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Apr 09, 2026 - 2 contributions</title>
-      <circle class="halo" cx="502.15" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="502.15" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Apr 11, 2026 - 2 contributions</title>
-      <circle class="halo" cx="502.15" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="502.15" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Apr 12, 2026 - 2 contributions</title>
-      <circle class="halo" cx="517.69" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="517.69" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Apr 13, 2026 - 11 contributions</title>
-      <circle class="halo" cx="517.69" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="517.69" cy="47.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Apr 14, 2026 - 4 contributions</title>
-      <circle class="halo" cx="517.69" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="517.69" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Apr 15, 2026 - 11 contributions</title>
-      <circle class="halo" cx="517.69" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="517.69" cy="85.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Apr 16, 2026 - 7 contributions</title>
-      <circle class="halo" cx="517.69" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="517.69" cy="104.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Apr 17, 2026 - 3 contributions</title>
-      <circle class="halo" cx="517.69" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="517.69" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Apr 19, 2026 - 2 contributions</title>
-      <circle class="halo" cx="533.23" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="533.23" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Apr 20, 2026 - 3 contributions</title>
-      <circle class="halo" cx="533.23" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="533.23" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Apr 21, 2026 - 4 contributions</title>
-      <circle class="halo" cx="533.23" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="533.23" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Apr 22, 2026 - 4 contributions</title>
-      <circle class="halo" cx="533.23" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="533.23" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Apr 25, 2026 - 2 contributions</title>
-      <circle class="halo" cx="533.23" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="533.23" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Apr 26, 2026 - 11 contributions</title>
-      <circle class="halo" cx="548.77" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="548.77" cy="28.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Apr 27, 2026 - 5 contributions</title>
-      <circle class="halo" cx="548.77" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="548.77" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Apr 28, 2026 - 2 contributions</title>
-      <circle class="halo" cx="548.77" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="548.77" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Apr 29, 2026 - 3 contributions</title>
-      <circle class="halo" cx="548.77" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="548.77" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>May 04, 2026 - 1 contribution</title>
-      <circle class="core" cx="564.31" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>May 05, 2026 - 5 contributions</title>
-      <circle class="halo" cx="564.31" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="564.31" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>May 09, 2026 - 2 contributions</title>
-      <circle class="halo" cx="564.31" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="564.31" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>May 13, 2026 - 3 contributions</title>
-      <circle class="halo" cx="579.85" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="579.85" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>May 14, 2026 - 4 contributions</title>
-      <circle class="halo" cx="579.85" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="579.85" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>May 15, 2026 - 11 contributions</title>
-      <circle class="halo" cx="579.85" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="579.85" cy="123.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>May 16, 2026 - 2 contributions</title>
-      <circle class="halo" cx="579.85" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="579.85" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>May 17, 2026 - 11 contributions</title>
-      <circle class="halo" cx="595.38" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="595.38" cy="28.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>May 18, 2026 - 4 contributions</title>
-      <circle class="halo" cx="595.38" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="595.38" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>May 21, 2026 - 5 contributions</title>
-      <circle class="halo" cx="595.38" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="595.38" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>May 22, 2026 - 11 contributions</title>
-      <circle class="halo" cx="595.38" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="595.38" cy="123.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>May 23, 2026 - 2 contributions</title>
-      <circle class="halo" cx="595.38" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="595.38" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>May 24, 2026 - 7 contributions</title>
-      <circle class="halo" cx="610.92" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="610.92" cy="28.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>May 25, 2026 - 3 contributions</title>
-      <circle class="halo" cx="610.92" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="610.92" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>May 26, 2026 - 1 contribution</title>
-      <circle class="core" cx="610.92" cy="66.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>May 28, 2026 - 8 contributions</title>
-      <circle class="halo" cx="610.92" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="610.92" cy="104.0" r="1.8" fill="#ffffff" opacity="0.928" />
-    </g>
-    <g class="star">
-      <title>May 29, 2026 - 11 contributions</title>
-      <circle class="halo" cx="610.92" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="610.92" cy="123.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>May 30, 2026 - 1 contribution</title>
-      <circle class="core" cx="610.92" cy="142.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>May 31, 2026 - 3 contributions</title>
-      <circle class="halo" cx="626.46" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="626.46" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Jun 01, 2026 - 3 contributions</title>
-      <circle class="halo" cx="626.46" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="626.46" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Jun 02, 2026 - 5 contributions</title>
-      <circle class="halo" cx="626.46" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="626.46" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Jun 03, 2026 - 7 contributions</title>
-      <circle class="halo" cx="626.46" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="626.46" cy="85.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Jun 04, 2026 - 4 contributions</title>
-      <circle class="halo" cx="626.46" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="626.46" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Jun 05, 2026 - 5 contributions</title>
-      <circle class="halo" cx="626.46" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="626.46" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Jun 06, 2026 - 5 contributions</title>
-      <circle class="halo" cx="626.46" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="626.46" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Jun 07, 2026 - 1 contribution</title>
-      <circle class="core" cx="642.0" cy="28.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Jun 08, 2026 - 1 contribution</title>
-      <circle class="core" cx="642.0" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Jun 15, 2026 - 1 contribution</title>
-      <circle class="core" cx="657.54" cy="47.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Jun 20, 2026 - 8 contributions</title>
-      <circle class="halo" cx="657.54" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="657.54" cy="142.0" r="1.8" fill="#ffffff" opacity="0.928" />
-    </g>
-    <g class="star">
-      <title>Jun 21, 2026 - 4 contributions</title>
-      <circle class="halo" cx="673.08" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="673.08" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Jun 22, 2026 - 7 contributions</title>
-      <circle class="halo" cx="673.08" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="673.08" cy="47.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Jun 23, 2026 - 2 contributions</title>
-      <circle class="halo" cx="673.08" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="673.08" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jun 25, 2026 - 5 contributions</title>
-      <circle class="halo" cx="673.08" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="673.08" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Jun 26, 2026 - 2 contributions</title>
-      <circle class="halo" cx="673.08" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="673.08" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jun 27, 2026 - 3 contributions</title>
-      <circle class="halo" cx="673.08" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="673.08" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Jun 28, 2026 - 11 contributions</title>
-      <circle class="halo" cx="688.62" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="688.62" cy="28.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Jun 29, 2026 - 3 contributions</title>
-      <circle class="halo" cx="688.62" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="688.62" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Jun 30, 2026 - 11 contributions</title>
-      <circle class="halo" cx="688.62" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="688.62" cy="66.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Jul 01, 2026 - 7 contributions</title>
-      <circle class="halo" cx="688.62" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="688.62" cy="85.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Jul 02, 2026 - 4 contributions</title>
-      <circle class="halo" cx="688.62" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="688.62" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Jul 03, 2026 - 2 contributions</title>
-      <circle class="halo" cx="688.62" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="688.62" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jul 04, 2026 - 11 contributions</title>
-      <circle class="halo" cx="688.62" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="688.62" cy="142.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Jul 07, 2026 - 3 contributions</title>
-      <circle class="halo" cx="704.15" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="704.15" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Jul 08, 2026 - 7 contributions</title>
-      <circle class="halo" cx="704.15" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="704.15" cy="85.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Jul 11, 2026 - 2 contributions</title>
-      <circle class="halo" cx="704.15" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="704.15" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jul 12, 2026 - 2 contributions</title>
-      <circle class="halo" cx="719.69" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="719.69" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jul 13, 2026 - 2 contributions</title>
-      <circle class="halo" cx="719.69" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="719.69" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jul 14, 2026 - 2 contributions</title>
-      <circle class="halo" cx="719.69" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="719.69" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Jul 24, 2026 - 1 contribution</title>
-      <circle class="core" cx="735.23" cy="123.0" r="1.8" fill="#b8d5fd" opacity="0.635" />
-    </g>
-    <g class="star">
-      <title>Jul 29, 2026 - 8 contributions</title>
-      <circle class="halo" cx="750.77" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.414" />
-      <circle class="core" cx="750.77" cy="85.0" r="1.8" fill="#ffffff" opacity="0.928" />
-    </g>
-    <g class="star">
-      <title>Jul 30, 2026 - 5 contributions</title>
-      <circle class="halo" cx="750.77" cy="104.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="750.77" cy="104.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Jul 31, 2026 - 11 contributions</title>
-      <circle class="halo" cx="750.77" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="750.77" cy="123.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Aug 01, 2026 - 2 contributions</title>
-      <circle class="halo" cx="750.77" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="750.77" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Aug 02, 2026 - 7 contributions</title>
-      <circle class="halo" cx="766.31" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="766.31" cy="28.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Aug 03, 2026 - 5 contributions</title>
-      <circle class="halo" cx="766.31" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="766.31" cy="47.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Aug 04, 2026 - 11 contributions</title>
-      <circle class="halo" cx="766.31" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="766.31" cy="66.0" r="1.8" fill="#ffffff" opacity="0.984" />
-    </g>
-    <g class="star">
-      <title>Aug 14, 2026 - 3 contributions</title>
-      <circle class="halo" cx="781.85" cy="123.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="781.85" cy="123.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Aug 15, 2026 - 5 contributions</title>
-      <circle class="halo" cx="781.85" cy="142.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="781.85" cy="142.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Aug 16, 2026 - 2 contributions</title>
-      <circle class="halo" cx="797.38" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.184" />
-      <circle class="core" cx="797.38" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.714" />
-    </g>
-    <g class="star">
-      <title>Aug 18, 2026 - 3 contributions</title>
-      <circle class="halo" cx="797.38" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="797.38" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Aug 19, 2026 - 3 contributions</title>
-      <circle class="halo" cx="797.38" cy="85.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="797.38" cy="85.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Aug 23, 2026 - 5 contributions</title>
-      <circle class="halo" cx="812.92" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="812.92" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Aug 24, 2026 - 7 contributions</title>
-      <circle class="halo" cx="812.92" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.403" />
-      <circle class="core" cx="812.92" cy="47.0" r="1.8" fill="#ffffff" opacity="0.905" />
-    </g>
-    <g class="star">
-      <title>Aug 25, 2026 - 4 contributions</title>
-      <circle class="halo" cx="812.92" cy="66.0" r="4.5" fill="url(#starGlow)" opacity="0.214" />
-      <circle class="core" cx="812.92" cy="66.0" r="1.8" fill="#e0eeff" opacity="0.814" />
-    </g>
-    <g class="star">
-      <title>Aug 30, 2026 - 5 contributions</title>
-      <circle class="halo" cx="828.46" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.225" />
-      <circle class="core" cx="828.46" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.849" />
-    </g>
-    <g class="star">
-      <title>Sep 06, 2026 - 3 contributions</title>
-      <circle class="halo" cx="844.0" cy="28.0" r="4.5" fill="url(#starGlow)" opacity="0.201" />
-      <circle class="core" cx="844.0" cy="28.0" r="1.8" fill="#e0eeff" opacity="0.77" />
-    </g>
-    <g class="star">
-      <title>Sep 07, 2026 - 11 contributions</title>
-      <circle class="halo" cx="844.0" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.442" />
-      <circle class="core" cx="844.0" cy="47.0" r="1.8" fill="#ffffff" opacity="0.984" />
+      <title>Sep 07, 2026 - 6 contributions</title>
+      <circle class="halo" cx="844.0" cy="47.0" r="4.5" fill="url(#starGlow)" opacity="0.39" />
+      <circle class="core" cx="844.0" cy="47.0" r="1.8" fill="#ffffff" opacity="0.879" />
     </g>
   </g>
 </svg>
