@@ -386,11 +386,11 @@
       <circle class="core" cx="844.0" cy="28.0" r="1.8" fill="#ffffff" opacity="0.971" />
     </g>
     <g class="star">
-      <title>Sep 07, 2026 - 6 contributions</title>
-      <circle class="halo" cx="844.0" cy="47.83" r="5.2" fill="url(#starGlow)" opacity="0.47" />
+      <title>Sep 07, 2026 - 8 contributions</title>
+      <circle class="halo" cx="844.0" cy="47.83" r="5.2" fill="url(#starGlow)" opacity="0.494" />
       <line class="flare" x1="839.0" y1="47.83" x2="849.0" y2="47.83" />
       <line class="flare" x1="844.0" y1="42.83" x2="844.0" y2="844.0" />
-      <circle class="core" cx="844.0" cy="47.83" r="1.8" fill="#ffffff" opacity="0.891" />
+      <circle class="core" cx="844.0" cy="47.83" r="1.8" fill="#ffffff" opacity="0.935" />
     </g>
   </g>
 </svg>
