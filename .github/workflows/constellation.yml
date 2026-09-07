@@ -1,0 +1,47 @@
+name: Update Contribution Constellation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/generate_constellation.py'
+      - '.github/workflows/constellation.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Constellation SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          OUTPUT_PATH: assets/constellation.svg
+        run: |
+          python scripts/generate_constellation.py
+
+      - name: Commit and push updated constellation
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/constellation.svg
+          if git diff --staged --quiet; then
+            echo "No changes to constellation SVG."
+          else
+            git commit -m "Update contribution constellation [skip ci]"
+            git push
+          fi
